@@ -10,7 +10,7 @@
 	Username:
 	<input type="text" name="email" />
 	<br />..
-	Password:..
+	Password:..Matts version
 	<input type="password" name="password" id="password"/>
 	<br />
 	<input type="button" value="Login" onclick="formhash(this.form, this.form.password);" />
