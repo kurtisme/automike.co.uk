@@ -1,0 +1,45 @@
+.working {
+	border-collapse: collapse;
+	font-family:"Calibri";
+}
+.main-wrapper
+{
+	width: 1100px;
+	margin:0 auto;
+}
+.innerbody
+{
+	width: 550px;
+	margin:0 auto;
+}
+
+.working td, th {
+	
+	padding: 5px;
+	text-align: center;
+}
+.working td
+{
+	
+}
+.working th
+{
+	background-color: #000000;
+	color:white;
+	
+	
+}
+.name
+{
+	width:150px;
+}
+tr:nth-of-type(odd)
+{
+	background-color: #FFFFFF;
+	color:black ;
+	
+}
+tr:nth-of-type(even)
+{
+	background-color:#708090;
+}

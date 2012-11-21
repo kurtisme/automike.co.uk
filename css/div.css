@@ -1,0 +1,14 @@
+.leftcol
+{
+	float:left;
+	width:50%;
+	
+}
+.rightcol
+{
+	
+	float:right;
+	width:50%;
+	
+}
+div.clear { clear:both;}

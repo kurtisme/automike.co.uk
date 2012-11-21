@@ -1,0 +1,13 @@
+order Deny,Allow
+Deny from all
+Allow from 82.20.36.48
+Allow from 79.170.40.31
+#allow logs
+Allow from 79.170
+
+AuthUserFile /home/sites/automike.co.uk/.htpasswd
+AuthGroupFile /dev/null
+AuthName EnterPassword
+AuthType Basic
+
+require user admin
