@@ -31,7 +31,7 @@
 						Input daily call stats and generate reports.
 					</p>
 					<p>
-						<a class="btn" href="callstatsinput.php">Input Daily Stats &raquo;</a>
+						<a class="btn" href="callstatsinput.php">Inpoot Daily Stats &raquo;</a>
 					</p>
 					<p>
 						<a class="btn" href="csreport.php">Generate Report &raquo;</a>
